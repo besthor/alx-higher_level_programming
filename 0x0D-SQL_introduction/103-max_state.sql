@@ -1,5 +1,2 @@
--- Displays the max temperature of each state, ordered by state name.
-SELECT `state`, MAX(`value`) AS `max_temp`
-FROM `temperatures`
-GROUP BY `state`
-ORDER BY `state`;
+-- List max temperature in weach state; order by name
+SELECT state, MAX(value) AS max_temp FROM temperatures GROUP BY state ORDER BY state ASC;
