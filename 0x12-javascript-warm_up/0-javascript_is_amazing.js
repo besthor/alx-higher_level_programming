@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// a script that prints “JavaScript is amazing”
+// a script that prints “JavaScript is amazing” using the 'node' intepreter
 
 // This creates a const variable called myVar and assigns the string value to it.
 const myVar = 'JavaScript is amazing';
