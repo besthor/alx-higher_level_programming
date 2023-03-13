@@ -1,3 +1,4 @@
 #!/usr/bin/node
-cost myVar = "JavaScript is amazing"
+//a script that prints “JavaScript is amazing”
+cost myVar = 'JavaScript is amazing';
 console.log(myVar);
