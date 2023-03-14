@@ -1,6 +1,12 @@
 #!/usr/bin/node
-const languages = ['C is fun', 'Python is coo', 'JavaScript is amazing'];
+// Basic print with Javascript
 
-for (let i = 0; i < languages.length; i++) {
-  console.log(languages[i]);
+const array = ['C is fun',
+  'Python is cool',
+  'Javascript is amazing'];
+let i = 0;
+
+while (array[i]) {
+  console.log(array[i]);
+  i++;
 }
