@@ -4,7 +4,7 @@
 - Scripting (same as we did with Python)
 - Web front-end
 
-## For the moment, and for learning all basic concepts of this language, we will do some scripting. After, we will make our AirBnB project dynamic by using Javascript and JQuery.
+- For the moment, and for learning all basic concepts of this language, we will do some scripting. After, we will make our AirBnB project dynamic by using Javascript and JQuery.
 
 ![](https://iwearshorts.com/wp-content/uploads/2015/05/javascript-site-1070x580.jpg)
 
