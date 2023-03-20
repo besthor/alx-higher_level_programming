@@ -1,39 +1,32 @@
 #!/usr/bin/python3
 """
-Deletes all State objects with a name containing the letter 'a'
-from the database hbtn_0e_6_usa
+Task 13: deletes all State objects with a name containing the letter a from
+the database hbtn_0e_6_usa. You must use the module SQLAlchemy
 """
+
 import sys
+import MySQLdb
 from model_state import Base, State
+from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-if __name__ == "__main__":
+Base = declarative_base()
 
-    # Check for correct number of arguments
+if __name__ == "__main__":
     mysql_username = sys.argv[1]
     mysql_password = sys.argv[2]
     mysql_dbname = sys.argv[3]
 
-    # Create engine to connect to MySQL server
-    engine = create_engine('mysql+mysqldb://{}:{}@localhost:3306/{}'
-                           .format(sys.argv[1], sys.argv[2], sys.argv[3]),
-                           pool_pre_ping=True)
+    engine = create_engine("mysql+mysqldb://{}:{}@localhost/{}".format(
+                            mysql_username, mysql_password, mysql_dbname))
+    Base.metadata.create_all(bind=engine)
 
-    # Create all tables in the engine
-    Base.metadata.create_all(engine)
-
-    # Create a session to communicate with the database
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    # Delete all State objects with a name containing the letter 'a'
-    states = session.query(State).filter(State.name.like('%a%')).all()
-    for state in states:
-        session.delete(state)
-
-    # Commit the changes to the database
+    result = session.query(State).filter(
+        State.name.ilike("%a%")).delete(synchronize_session='fetch')
     session.commit()
 
-    # Close the session
     session.close()
