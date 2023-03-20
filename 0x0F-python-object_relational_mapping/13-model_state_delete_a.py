@@ -11,9 +11,9 @@ from sqlalchemy.orm import sessionmaker
 if __name__ == "__main__":
 
     # Check for correct number of arguments
-    if len(sys.argv) != 4:
-        print("Usage: {} <username> <password> <database>".format(sys.argv[0]))
-        exit(1)
+    mysql_username = sys.argv[1]
+    mysql_password = sys.argv[2]
+    mysql_dbname = sys.argv[3]
 
     # Create engine to connect to MySQL server
     engine = create_engine('mysql+mysqldb://{}:{}@localhost:3306/{}'
