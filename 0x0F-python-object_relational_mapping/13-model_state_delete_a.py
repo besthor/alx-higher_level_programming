@@ -16,8 +16,7 @@ Base = declarative_base()
 if __name__ == "__main__":
 
     engine = create_engine("mysql+mysqldb://{}:{}@localhost/{}".format(
-                            mysql_username, mysql_password, mysql_dbname))
-    Base.metadata.create_all(bind=engine)
+                            mysql_username, mysql_password, mysql_dbname, pool_pre_ping=True))
 
     Session = sessionmaker(bind=engine)
     session = Session()
