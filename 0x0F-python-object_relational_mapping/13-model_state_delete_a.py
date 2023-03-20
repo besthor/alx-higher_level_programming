@@ -14,9 +14,6 @@ from sqlalchemy.orm import sessionmaker
 Base = declarative_base()
 
 if __name__ == "__main__":
-    mysql_username = sys.argv[1]
-    mysql_password = sys.argv[2]
-    mysql_dbname = sys.argv[3]
 
     engine = create_engine("mysql+mysqldb://{}:{}@localhost/{}".format(
                             mysql_username, mysql_password, mysql_dbname))
