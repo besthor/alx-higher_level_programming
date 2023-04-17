@@ -4,9 +4,9 @@
 ## In response to tasks set forth in ALX student project `0x0D. SQL - Introduction`, the files in this directory were created
 
 ## These SQL scripts provide a fundamental introduction to:
-- creating
+- `creating
 - navigating
-- and manipulating MySQL databases.
+- and manipulating MySQL databases.`
 #### Task 0: [0-list_databases.sql]
 * Write a script that lists all databases of your MySQL server
 #### Task 1: [1-create_database_if_missing.sql]
