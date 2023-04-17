@@ -2,7 +2,7 @@
 # `SQL - More queries`
 ### In response to tasks set forth in ALX student project `0x0D. SQL - Introduction`, the files in this directory were created
 
-### These SQL scripts provide a more in-depth introduction to MySQL databases, covering topics such as 
+#### These SQL scripts provide a more in-depth introduction to MySQL databases, covering topics such as 
 - permissions
 - advanced queries
 - and joins
