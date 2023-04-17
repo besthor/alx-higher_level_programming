@@ -1,7 +1,7 @@
 
 # `SQL - More queries`
 ### In response to tasks set forth in ALX student project `0x0D. SQL - Introduction`, the files in this directory were created
-![](https://www.selecthub.com/wp-content/uploads/2022/07/SQL-Commands.jpg)
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305181855/SQL2.png)
 ### These SQL scripts provide a more in-depth introduction to MySQL databases, covering topics such as permissions, advanced queries, and joins
 
 #### Task 0: [0-privileges.sql]
