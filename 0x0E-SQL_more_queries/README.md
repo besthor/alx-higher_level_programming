@@ -1,6 +1,8 @@
 
-# 0x0E. SQL - More queries
-This directory contains files created in response to tasks set forth in Holberton student project "0x0E. SQL - More queries". These SQL scripts demonstrate a further introduction to MySQL databases - including permission, more advanced queries, and joins. 
+# `SQL - More queries`
+### In response to tasks set forth in ALX student project `0x0D. SQL - Introduction`, the files in this directory were created
+![](https://www.selecthub.com/wp-content/uploads/2022/07/SQL-Commands.jpg)
+### These SQL scripts provide a more in-depth introduction to MySQL databases, covering topics such as permissions, advanced queries, and joins
 
 #### Task 0: [0-privileges.sql]
 * Write a script that lists all privileges of the MySQL users `user_0d_1` and `user_0d_2` on your server (in `localhost`)
