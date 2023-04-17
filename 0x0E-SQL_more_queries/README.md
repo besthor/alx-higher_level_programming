@@ -3,9 +3,9 @@
 ### In response to tasks set forth in ALX student project `0x0D. SQL - Introduction`, the files in this directory were created
 
 #### These SQL scripts provide a more in-depth introduction to MySQL databases, covering topics such as 
-- permissions
-- advanced queries
-- and joins
+- `permissions`
+- `advanced queries`
+- `and joins`
 #
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305181855/SQL2.png)
 #### Task 0: [0-privileges.sql]
