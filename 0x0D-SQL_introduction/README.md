@@ -1,6 +1,7 @@
 # 0x0D. SQL - Introduction
-This directory contains files created in response to tasks set forth in Holberton student project "0x0D. SQL - Introduction". These SQL scripts demonstrate a basic introduction to the creation, navigation, and manipulation of MySQL databases. 
-
+- This directory contains files created in response to tasks set forth in ALX student project "0x0D. SQL - Introduction". 
+- These SQL scripts demonstrate a basic introduction to the creation, navigation, and manipulation of MySQL databases. 
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305181855/SQL2.png)
 #### Task 0: [0-list_databases.sql]
 * Write a script that lists all databases of your MySQL server
 #### Task 1: [1-create_database_if_missing.sql]
