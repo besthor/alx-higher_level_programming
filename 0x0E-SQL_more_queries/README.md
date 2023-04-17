@@ -1,9 +1,13 @@
 
 # `SQL - More queries`
 ### In response to tasks set forth in ALX student project `0x0D. SQL - Introduction`, the files in this directory were created
-![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305181855/SQL2.png)
-### These SQL scripts provide a more in-depth introduction to MySQL databases, covering topics such as permissions, advanced queries, and joins
 
+### These SQL scripts provide a more in-depth introduction to MySQL databases, covering topics such as 
+- permissions
+- advanced queries
+- and joins
+#
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305181855/SQL2.png)
 #### Task 0: [0-privileges.sql]
 * Write a script that lists all privileges of the MySQL users `user_0d_1` and `user_0d_2` on your server (in `localhost`)
 #### Task 1: [1-create_user.sql]
