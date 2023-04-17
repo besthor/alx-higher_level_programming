@@ -1,5 +1,5 @@
 # `SQL - Introduction`
-- SQL (Structured Query Language) is a programming language used for managing and manipulating data in relational databases.
+## SQL (Structured Query Language) is a programming language used for managing and manipulating data in relational databases.
 ![](https://www.systematix.co.uk/wp-content/uploads/2019/02/424x283xintroduction-to-sql-databases.jpg.pagespeed.ic_.Q3XW8S_X1p.jpg)
 
  
