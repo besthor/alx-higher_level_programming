@@ -1,11 +1,12 @@
 # SQL - Introduction
-- This directory contains files created in response to tasks set forth in ALX student project `0x0D. SQL - Introduction`.
-
+- SQL (Structured Query Language) is a programming language used for managing and manipulating data in relational databases.
 ![](https://www.systematix.co.uk/wp-content/uploads/2019/02/424x283xintroduction-to-sql-databases.jpg.pagespeed.ic_.Q3XW8S_X1p.jpg)
 
-##These SQL scripts demonstrate a basic introduction to the creation, navigation, and manipulation of MySQL databases. 
-
+ 
+## In response to tasks set forth in ALX student project `0x0D. SQL - Introduction`, the files in this directory were created.
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305181855/SQL2.png)
+
+### These SQL scripts provide a fundamental introduction to creating, navigating, and manipulating MySQL databases.
 #### Task 0: [0-list_databases.sql]
 * Write a script that lists all databases of your MySQL server
 #### Task 1: [1-create_database_if_missing.sql]
