@@ -1,10 +1,10 @@
 # `SQL - Introduction`
 ## SQL (Structured Query Language) is a programming language used for managing and manipulating data in relational databases.
-![](https://www.systematix.co.uk/wp-content/uploads/2019/02/424x283xintroduction-to-sql-databases.jpg.pagespeed.ic_.Q3XW8S_X1p.jpg)
+![](https://repository-images.githubusercontent.com/317379778/0f9630aa-44df-4315-87f4-f19bfcc9e4e5)
 
  
 ## In response to tasks set forth in ALX student project `0x0D. SQL - Introduction`, the files in this directory were created.
-![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305181855/SQL2.png)
+![](https://www.selecthub.com/wp-content/uploads/2022/07/SQL-Commands.jpg)
 
 ### These SQL scripts provide a fundamental introduction to creating, navigating, and manipulating MySQL databases.
 #### Task 0: [0-list_databases.sql]
