@@ -1,7 +1,10 @@
 # SCRIPTS & PYTHON INTRODUCTION
-
-![alx](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/Flyingcircus_2.jpg)
-
+![](https://scaler.com/topics/images/how-to-write-python-hello-world-program.webp)
+![](https://www.h2kinfosys.com/blog/wp-content/uploads/2020/03/Write-your-first-python-Program-1-780x405.jpg)
+![](https://www.h2kinfosys.com/blog/wp-content/uploads/2020/03/Write-your-first-python-Program-1-780x405.jpg)
+![](https://ourcodeworld.com/public-media/articles/articleocw-575e9796be0c9.png)
+![](https://images.theengineeringprojects.com/image/main/2022/03/1-1.jpg)
+## Resources
 - The Python tutorial (only the first three chapters below)
 - Whetting Your Appetite
 - Using the Python Interpreter
@@ -11,4 +14,3 @@
 - Pycodestyle – Style Guide for Python Code
 
 
-![confused](https://content.techgig.com/thumb/msid-79425257,width-460,resizemode-4/Top-4-Python-concepts-that-beginner-programmers-are-confused-about.jpg?132269)
