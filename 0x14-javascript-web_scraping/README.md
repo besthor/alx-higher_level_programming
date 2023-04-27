@@ -4,19 +4,21 @@
 
 
 # `General`
-Why JavaScript programming is amazing
-How to manipulate JSON data
-How to use request and fetch API
-How to read and write a file using fs module
+- Why JavaScript programming is amazing
+- How to manipulate JSON data
+- How to use request and fetch API
+- How to read and write a file using fs module
 
 
-# Resources
+# `Resources`
 Read or watch:
 
-Working with JSON data
-The workflow of accessing the attributes of a simply-created JSON object by Jimmy Tran from Cohort 1 - San Francisco
+-  Working with JSON data
+- The workflow of accessing the attributes of a simply-created JSON object by Jimmy Tran from Cohort 1 - San Francisco
 request module
-Modern JS
+- Modern JS
+
+![](https://cms.iproyal.com/uploads/Web_Scraping_With_Java_Script_and_Node_js_Without_Getting_Blocked_847x300_5e48f3d270.jpg)
 
 
 
