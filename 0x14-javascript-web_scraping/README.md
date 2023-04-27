@@ -19,20 +19,21 @@ request module
 - Modern JS
 
 ## Install Node 10
----
+```
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt-get install -y nodejs
----
+```
 
 ## Install semi-standard
----
+```
 sudo npm install semistandard --global
----
+```
+
 ## Install request module and use it
----
+```
 sudo npm install request --global
 export NODE_PATH=/usr/lib/node_modules
----
+```
 ![](https://cms.iproyal.com/uploads/Web_Scraping_With_Java_Script_and_Node_js_Without_Getting_Blocked_847x300_5e48f3d270.jpg)
 
 
