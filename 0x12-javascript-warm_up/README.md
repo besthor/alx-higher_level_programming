@@ -1,4 +1,4 @@
-# Background Context
+# `Background Context`
 # Why JavaScript is Amazing!
 ![](https://iwearshorts.com/wp-content/uploads/2015/05/javascript-site-1070x580.jpg)
 - ### `Versatile:` Can be used for a variety of purposes, from creating simple animations to developing complex web applications.
