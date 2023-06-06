@@ -3,6 +3,7 @@
 - fetches https://alx-intranet.hbtn.io/status
 - use the package urllib
 """
+
 if __name__ == "__main__":
     import urllib.request
     
