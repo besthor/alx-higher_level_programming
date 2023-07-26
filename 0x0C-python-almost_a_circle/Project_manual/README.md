@@ -1,2 +1,2 @@
 # `Turtle Graphics in Python` 
-![](https://media.tenor.com/ElmsBeoLQmEAAAAC/logisz-infinity.gif)
+![](https://replit.com/public/images/mindjoy-python-turtle/og-new.jpg)
