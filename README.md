@@ -1,3 +1,4 @@
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 # `Alx-higher_level_programming`
 - ### This repository houses a comprehensive collection of projects completed using the Python and Javascript programming languages
 - ### Overall, this repository offers a valuable resource for anyone looking to learn or enhance their skills in Python and JavaScript programming.
